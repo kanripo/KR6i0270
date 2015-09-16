@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說如來智印經
+#+DATE: 2015-08-30 20:14:39.067033
+#+PROPERTY: JUAN 0

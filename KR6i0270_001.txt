@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:38.857922
+#+DATE: 2015-08-30 20:14:40.099453
 #+TITLE: 佛說如來智印經
 #+PROPERTY: CBETA_ID T15n0633
 #+PROPERTY: ID KR6i0270
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 633
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0270_T_001-0468b> 
 #+PROPERTY: JUAN 1
 ¶
-No.633[Nos.632,634]¶
-
- 《佛說如來智印經》一卷¶
+No. 633 [Nos. 632, 634]¶
+《佛說如來智印經》一卷¶
 ¶
 僧祐云闕譯人今附宋錄¶
 
@@ -588,7 +587,7 @@ No.633[Nos.632,634]¶
 　以護法緣捨女身，
 　當生無量極樂國。¶
 　此眾護法亦當生，
-　法將欲滅為已住，¶
+　汝將欲滅為已住，¶
 　必生極樂千葉華，
 　相好莊嚴為佛子。¶
 　既得生彼供正覺，
@@ -978,7 +977,7 @@ No.633[Nos.632,634]¶
 　雨散妙香花，
 　并幢蓋百千。¶
 　又雨妙天冠，
-　車𤦲寶瓔珞，¶
+　車[(王*巨)/木]寶瓔珞，¶
 　摩尼及真珠，
 　圓寶光悅衣。¶
 　於上無量天，
